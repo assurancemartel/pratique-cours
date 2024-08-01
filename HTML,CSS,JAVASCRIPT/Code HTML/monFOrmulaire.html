@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon formulaire</title>
+</head>
+<body>
+    <header>
+
+    </header>
+    <form>
+        <h1>Mon formulaire de renseigment</h1>
+        <fieldset>
+            <legend>Informations personnelles</legend>
+            <p><label>Nom: <input type="text" placeholder="Nom de famille"></label></p>
+            <p><label>Prénom: <input type="text"></label></p>
+            <p><label for="list">Tranche d'age: </label>
+                <select id="list">
+                    <option>18-25</option>
+                    <option>26-35</option>
+                    <option>36-45</option>
+                </select>
+            </p>
+
+        </fieldset>
+        <fieldset>
+            <legend>Je cherche</legend>
+            <p>
+                <label for="radio_indiv">Une chambre individuelle</label>
+                <input type="radio" id="radio_indiv" name="type_chambre">
+            </p>
+            <p>
+                <label >Une chambre partagée <input type="radio"  name="type_chambre" checked></label>
+                
+            </p>
+        </fieldset>
+        <p>
+            <label>Commentaires</label>
+        </p>
+        <textarea  cols="30" rows="10"></textarea>
+        <p>
+            <input type="submit" value="soumettre">
+            <input type="reset" value="Reinitialiser">
+            <input type="button" value="Action">
+        </p>
+    </form>
+    <input type="text">
+</body>
+</html>

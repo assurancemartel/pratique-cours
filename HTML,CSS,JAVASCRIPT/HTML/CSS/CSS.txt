@@ -1,0 +1,7 @@
+# est mis dans le selecteur pour l'id
+la virgule pour specifier qu'il a un autre element.
+l'espace entre 2 mots pour signifier que le 2eme element est inclu dans le 1er element. 
+l'etoile pour tout selectionner.
+
+top  ca quitte de son etat initial , ca descend quand c'est positif et remonte quand c'est negatif.
+bottom c,est clairement le contraire de top.

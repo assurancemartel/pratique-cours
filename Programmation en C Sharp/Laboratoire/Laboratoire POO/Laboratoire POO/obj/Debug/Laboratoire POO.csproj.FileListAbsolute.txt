@@ -1,0 +1,7 @@
+C:\Users\martel74\Documents\Programmation en C Sharp\Laboratoire POO\Laboratoire POO\bin\Debug\Laboratoire POO.exe.config
+C:\Users\martel74\Documents\Programmation en C Sharp\Laboratoire POO\Laboratoire POO\bin\Debug\Laboratoire POO.exe
+C:\Users\martel74\Documents\Programmation en C Sharp\Laboratoire POO\Laboratoire POO\bin\Debug\Laboratoire POO.pdb
+C:\Users\martel74\Documents\Programmation en C Sharp\Laboratoire POO\Laboratoire POO\obj\Debug\Laboratoire POO.csproj.AssemblyReference.cache
+C:\Users\martel74\Documents\Programmation en C Sharp\Laboratoire POO\Laboratoire POO\obj\Debug\Laboratoire POO.csproj.CoreCompileInputs.cache
+C:\Users\martel74\Documents\Programmation en C Sharp\Laboratoire POO\Laboratoire POO\obj\Debug\Laboratoire POO.exe
+C:\Users\martel74\Documents\Programmation en C Sharp\Laboratoire POO\Laboratoire POO\obj\Debug\Laboratoire POO.pdb

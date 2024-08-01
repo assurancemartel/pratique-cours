@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Selecteurs</title>
+    <link rel="stylesheet" href="css/selectors.css">
+</head>
+<body>
+    <!--Par Attribut-->
+    <input type="number">
+    <input type="text" maxlength="10">
+    <input type="radio">
+    <input type="checkbox">
+
+    <!--Inversion d'un sélecteur -->
+
+    <img class="mon_image" src="./img/weedle.webp" alt="">
+    <img class="mon_image" src="./img/weedle.webp" alt="worm">
+
+    <p class="test"> Lorem Ipsum 1 </p>
+    <p class="test"> Lorem Ipsum 2 </p>
+    <p> Lorem Ipsum 3 </p>
+
+    <!-- Enfant direct -->
+    <div class="principal">
+        <p> Paragraphe directement dans la division principale. </p>
+        <div>
+            <p> Paragraphe dans une autre division. </p>
+            <p> deuxieme Paragraphe dans une autre division. </p>
+
+        </div>
+        <p> deuxieme paragraphe directement dans la division principale. </p>
+
+    </div>
+    <!-- Voisin direct -->
+    <div class="carre"> Click me! </div>
+
+    <div class="rectangle">div a</div>
+    <div class="rectangle">div b</div>
+    <div class="rectangle">div c</div>
+    <div class="cercle"> Cercle </div>
+    <!-- Voisin indirect -->
+
+    <p class="test">Paragraphe avant</p>
+
+    <div class="carre2"> Carré </div>
+    <div class="cercle2"> Cercle </div>
+
+    <p class="test">Paragraphe après</p>
+
+ 
+</body>
+</html>

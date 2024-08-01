@@ -1,0 +1,94 @@
+/**
+ * Instructions:
+ * - Lisez chaque question attentivement et écrivez votre réponse dans la section des réponses en bas de ce fichier.
+ * - Pour chaque réponse, indiquez clairement le numéro de la question à laquelle vous répondez.
+ * - Assurez-vous de sauvegarder votre travail régulièrement.
+ 
+
+ * Exercice CSS - Exercice 1 (7.5 points)
+
+    /* Questions:
+    Q1: Comment cibleriez-vous un élément qui est directement précédé par un label dans un element "DIV" ayant la classe "Parent", lorsque cet élément reçoit le focus?
+    Q2: Comment cibleriez-vous un élément avec une classe "box" qui est directement précédé par un autre élément "span" qui la classe "precedent" et ayant un attribut "width" de valeur 50px ?
+    Q3: Comment cibleriez-vous des liens à l'intérieur d'un paragraphe qui suit immédiatement un élément avec une id "Origine", uniquement quand cet élément est actif?
+    Q4: Dans un conteneur de classe "parent", comment sélectionneriez-vous tous les paragraphes sauf ceux qui ont une classe "ignore"?
+    Q5: Comment selectionneriez-vous les éléments survolés d'une liste qui a une classe "maListe" lorsqu'elle active et qui suit directement un élément span qui un id "repere". 
+    */
+
+    /* Réponses:
+    /* R1: Placez votre réponse à la question 1 ici */
+    
+    /* R2: Placez votre réponse à la question 2 ici */
+    
+    /* R3: Placez votre réponse à la question 3 ici */
+    
+    /* R4: Placez votre réponse à la question 4 ici */
+
+    /* R5: Placez votre réponse à la question 5 ici */
+
+
+    
+/**
+ *  Exercice 2 (7.5 points)
+
+    Que selectionne les selecteurs suivants : 
+
+    /* Q6 : .navigation a[title]:hover:focus { } */
+    /* Q7 : form[data-form-type="login"] input[type="text"] + button { } */
+    /* Q8 : div:hover > p.special-text { } */
+    /* Q9 : #submit-container button:first-of-type { } */
+    /* Q10 : section + section > h2 { } */
+
+    /* Réponses:
+    /* R6: Placez votre réponse à la question 6 ici */
+    
+    /* R7: Placez votre réponse à la question 7 ici */
+    
+    /* R8: Placez votre réponse à la question 8 ici */
+    
+    /* R9: Placez votre réponse à la question 9 ici */
+
+    /* R10: Placez votre réponse à la question 10 ici */
+
+/**
+
+* Exercice 3 (20 points)
+
+    * Aucun changement du code HTML de la page loupe.html ne doit être apporté.
+    * Toutes les couleurs doivent être obligatoirement sous le format hexadéciaml (EX #334DEF)
+    * Se referer à la video de démonstration
+    
+2a - Pour l'élément conteneur, ajouter: 
+    * Une bordure de deux pixels d'épaisseur
+    * une bordure en trait et de couleur verte à l'élément "conteneur"
+2b - Appliquer le style suivant aux éléments fruits :
+    * Taille de 70 x 70
+    * Couleur grise
+    * une bordure de 5 pixels, avec un texte de taille 15px centré au milieu
+2c - Les éléments fruit doivent être placés dans l'ordre inverse : Le premier élément se trouve à droite
+2d - Les éléments doivent être espacés équitablement dans l'élémént conteneur
+2e - Lorsque je clique et maintient le clique sur mon element "conteneur" :
+    * Le conteneur prend une hauteur de 500 pixels
+    * Les éléments deviennent ordonnés dans le sens vertical et répartis sur toute la hauteur
+    * La couleur du fruit change en une autre couleur
+    * La couleur de l'élément conteneur change, et la bordure devient de gros points bleus
+2f - lorsque je survolle l'élément "fruit"
+    * Changer la taille à 100x100 pixels
+    * Une bordure de 10 pixels de couleur verte
+    * Un fond gris 
+    * Une forme ronde
+    * Un texte blanc de taille 25 pixels, majuscule et souligné (style vague)
+    * Le texte devient en  
+2g - Le changement du style de l'élément fruit se fait graduellement pour toutes les propriétés dans une durée de 0.5 secondes. L'animation démarre directement et se fait de vitesse constante
+2h - Lorsque la taille de l'ecran est entre 400px et 500px, apporter les changements suivants :
+    * Pour le conteneur
+        - bordure bleue et fond vert
+    * Pour l'élément fruit
+        - Taille de 70x50
+        - couleur texte bleue et gras 
+        */
+
+/*Ecrire le code CSS au dessous sans utiliser les commentaires*/        
+        
+
+

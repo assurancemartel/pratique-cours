@@ -1,0 +1,85 @@
+.conteneur {
+    border: 1px solid #CCC;
+    height: 5em;
+}
+
+.box {
+    background-color: #A00;
+    width: 3em;
+    height: 3em;
+}
+
+.none {
+    transform: none;
+}
+
+.translate {
+    transform: translateY(30px)
+}
+
+.scale {
+    transform: scale(2, 0.5);
+}
+
+.skew {
+    transform: skew(30deg, 30deg);
+}
+
+.rotate {
+    transform: rotate(25deg);
+}
+
+.multiple {
+    transform: scale(1, 0.5) rotate(30deg) translate(35px, 20px);
+}
+
+.container {
+    border: 1px solid #CCC;
+    position: relative;
+    height: 15em;
+}
+
+.box2 {
+    position: absolute;
+    width: 5em;
+    height: 5em;
+    border: 2px dashed #A00;
+    top: 5em;
+}
+.box2 > div {
+    height: 100%;
+    background-color: #F44;
+    transition: transform 1s ease;
+}
+
+.right {
+    right: 10%;
+}
+
+.left {
+    left: 10%;
+}
+
+.box2:hover > div {
+    transform: rotate(135deg);
+}
+
+.right > div {
+    transform-origin: right bottom;
+}
+
+/*****/
+
+.container2{
+    height: 5em;
+    border: 1px solid #CCC;
+    position: relative;
+}
+
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    transform: translate(-50%,-50%);
+}

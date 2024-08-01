@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0HQOBwHRcpW0P5/UBFvj3GfcwYw3i/AiCYowMnl+IZZhgwnJnjdxIVl2RujWC20ul8w2wZwYdzriAWCV44dDWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martel74\\Documents\\Assurance et Qualite Logicielle\\Evaluation_Sommative_1_2718241\\DocumentationFormatage\\DocumentationFormatage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martel74\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\martel74\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\martel74\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\martel74\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

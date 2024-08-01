@@ -1,0 +1,39 @@
+.conteneur-flexbox {
+    display: flex;
+    margin: 0.5em;
+    background-color: #CCC;
+}
+
+.conteneur-flexbox > div {
+    margin: 0.1em;
+    width: 2em;
+    height: 1.5em;
+    color: #EEE;
+    background-color: #333;
+}
+
+
+.start {
+    justify-content: flex-start;
+}
+
+.end {
+    justify-content: flex-end;
+}
+
+.center {
+    justify-content: center;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.around {
+    justify-content: space-around;
+}
+
+.even{
+    justify-content: space-evenly;
+}
+

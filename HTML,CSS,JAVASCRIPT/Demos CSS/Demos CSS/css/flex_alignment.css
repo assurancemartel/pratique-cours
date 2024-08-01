@@ -1,0 +1,94 @@
+.conteneur-flexbox {
+    display: flex;
+    position: relative;
+    margin: 0.5em;
+    background-color: #CCC;
+    height: 5em;
+}
+
+.conteneur-flexbox > span {
+    margin: 0.5em;
+    width: 2em;
+    color: #EEE;
+    background-color: #333;
+}
+
+
+
+.conteneur-flexbox > span:nth-child(1) {
+    height: 1em;
+}
+.conteneur-flexbox > span:nth-child(2) {
+    height: 2.5em;
+}
+.conteneur-flexbox > span:nth-child(3) {
+    height: 2em;
+}
+.conteneur-flexbox > span:nth-child(4) {
+    height: 3.5em;
+}
+.conteneur-flexbox > span:nth-child(5) {
+    height: 3em;
+}
+
+.start {
+    align-items: flex-start;
+}
+
+.end {
+    align-items: flex-end;
+}
+
+.center {
+    align-items: center;
+}
+
+.base {
+    align-items: baseline;
+}
+
+.stretch {
+    align-items: stretch;
+}
+
+.conteneur-flexbox.stretch > span {
+    height: auto;
+}
+
+
+
+
+
+
+
+
+.texte {
+    position: absolute;
+    color: #900;
+    right: 1.5em;
+    bottom: 50%;
+}
+
+div{
+    display: block;
+}
+
+.axe {
+    position: absolute;
+    border-bottom: 2px solid #900;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.fleche {
+    position: absolute;
+    height: 0;
+    border-left: 0.8em solid #900;
+    border-top: 0.8em solid transparent;
+    border-bottom: 0.8em solid transparent;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}

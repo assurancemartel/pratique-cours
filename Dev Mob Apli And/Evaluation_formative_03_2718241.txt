@@ -1,0 +1,51 @@
+package com.collegelacite.tutoriel5
+
+class Bissextiles(AnnéeDébut: Int, AnnéeFin: Int, Afficherannée: Boolean) {
+    fun main(args: Array<String>) {
+        var (A1, A2, t, A) = args[0].split(',')
+        var AnnéeDébut = A1.toInt()
+        var AnnéeFin = A2.toInt()
+        var temp = t.toInt()
+        var Année = A.toInt()
+
+
+        // Fonction pour vérifier si une année est bissextile
+        fun estBissextile(Année: Int): Boolean {
+            return (Année % 4 == 0 && Année % 100 != 0) || (Année % 400 == 0)
+        }
+
+
+        /*  reordonner les années de facon chronologiques */
+        if (AnnéeDébut > AnnéeFin) {
+            temp = AnnéeDébut
+            AnnéeDébut = AnnéeFin
+            AnnéeFin = temp
+
+        }
+
+        var Nbr = Bissextiles(AnnéeDébut, AnnéeFin, true)
+        println("Il y a au total ${Nbr} années bissextiles entre l'année ${AnnéeDébut} et ${AnnéeDébut}")
+
+
+        if ((Année % 4 == 0 && Année % 100 == 0) || (Année % 400 != 0)) {
+            println("l'année ${Année} est bissextiles")
+        }
+        else {
+            println("L'année ${Année} n'est pas bissextile")
+        }
+
+        fun compterBissextiles(): Int {
+            var compteur = 0
+            for (Année in AnnéeDébut..AnnéeFin) {
+                if (estBissextile(Année)) {
+                    if (Afficherannée) {
+                        println(Année)
+                    }
+                    compteur++
+                }
+            }
+            return compteur
+        }
+    }
+
+}

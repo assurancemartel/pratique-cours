@@ -1,0 +1,117 @@
+
+.gauche {
+    text-align: left;
+}
+
+.droite {
+    text-align: right;
+}
+
+.centrer {
+    text-align: center;
+}
+
+.justifier {
+    text-align: justify;
+}
+
+
+.decoration1 {
+    text-decoration: underline
+}
+
+.decoration2 {
+    text-decoration: line-through dotted rgb(66, 113, 167);
+}
+
+.decoration3 {
+    text-decoration: overline dotted red;
+}
+
+.transform1 {
+    text-transform: uppercase;
+}
+
+.transform2 {
+    text-transform: lowercase;
+}
+
+.transform3 {
+    text-transform: capitalize;
+}
+
+.transform4 {
+    font-variant: small-caps;
+}
+
+
+.ombre {
+    text-shadow: -.1em .1em 2px red;
+}
+
+
+.eclat {
+    text-shadow: 0 0 .2em #edaf1f;
+}
+
+.mixe {
+    text-shadow: 0 .2em .2em #F00;
+}
+
+
+.interligne-double {
+    line-height: 2em;
+}
+
+.etirer {
+    letter-spacing: .8em;
+}
+
+.approcher {
+    letter-spacing: -.1em;
+    color: red;
+}
+
+.grand-espace {
+    word-spacing: 4em;
+    color: blue;
+}
+
+
+.petit {
+    font-size: 40px;
+}
+
+.grand {
+    font-size: 1.5em;
+}
+
+.flexible {
+    font-size: 3vw;
+    color: green;
+}
+
+.italique {
+    font-style: italic;
+}
+
+.gras {
+    font-weight: 900;
+}
+
+.autre-gras {
+    font-weight:bold
+}
+
+
+h1 {
+    font-family: "Arial", sans-serif;
+}
+
+p {
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+.comic {
+    font-family: "Comic Sans MS", cursive;
+}

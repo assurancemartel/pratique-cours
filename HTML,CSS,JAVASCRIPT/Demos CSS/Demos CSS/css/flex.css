@@ -1,0 +1,16 @@
+.conteneur-flexbox {
+    display: flex;
+    background-color: #CCC;
+    flex-direction: row;  /**  Flex-direction ***/
+    /** flex-wrap: wrap; Flex-direction ***/
+
+
+}
+
+.conteneur-flexbox > div {
+    color: #EEE;
+    background-color: #333;
+    margin: 4px;
+    padding: 4px;
+}
+

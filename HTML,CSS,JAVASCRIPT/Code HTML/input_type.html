@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Type d'inputs</title>
+        <meta charset="utf-8">
+        
+    </head>
+    <body>
+        <p>
+            <label>Age</label>
+        </p>
+        <input type="number" min="18" max="100" step="12" >
+        <p>
+            <label>Email</label>
+        </p>
+        <input type="email" placeholder="Votre email professionel" >
+        <p>
+            <label>Mot de passe</label>
+        </p>
+        <input type="password" >
+        <p>
+            <label>Color picker</label>
+        </p>
+        <p>
+            Choisissez votre couleur<br/>
+            <input type="color" value="#000000"/>
+        </p>
+        <p>
+            <label>Slider</label>
+        </p>
+        <p>
+            Quel est votre budget<br/>
+            <input type="range" min=0 Max=150 step=5 value=20 />
+        </p>
+        <p>
+            <label>Date et heure</label>
+        </p>
+        <p>
+            Choisissez une date<br>
+            <input type="date"/>
+            <br><br>Choisissez une heure<br>
+            <input type="time"/>
+        </p>
+        <p>
+            <label>Age</label>
+        </p>
+        <p>
+            Quelle est votre tranche d'Age<br>
+            <!-- Role du tag Label -->
+            <input type="radio" name="sexe" value="18-25"/>18-25<br>
+            <!-- Role du attribut Checked -->
+            <label><input type="radio" name="sexe" value="26-40" checked />26-40</label><br>
+            <label><input type="radio" name="sexe" value="41-60"/>41-60</label><br>
+        </p>
+        <p>
+            <label>Liste déroulante</label>
+        </p>
+        <select>
+            <option>Choix 1</option>
+            <option>Choix 2</option>
+        </select>
+        <p>
+            <label>Liste déroulante, choix multiples, choix groupés</label>
+        </p>
+        <select>
+            <optgroup label="Espagne">
+                <option>Barcelone</option>
+                <option>Seville</option>
+                <option >Madrid</option>
+            </optgroup>
+            <optgroup label="Canada">
+                <option>Ottawa</option>
+                <option>Toronto</option>
+                <option>Vancouver</option>
+            </optgroup>
+        </select>
+
+        <!-- Champs requis : Utilisation de l'attribut boooleen required  -->
+        <br><br><br>
+
+        <label>J'accepte </label>
+        <input type="checkbox" checked required /> 
+
+        <br><br><br>
+
+        <!-- Regrouper des champs  -->
+        <fieldset  >
+            <legend>Informations personnelles</legend>
+            <p>
+                <label>Nom</label>
+            </p>
+            <input type="text"  >
+            <p>        <p>
+                <label>Prenom</label>
+            </p>
+            <input type="text"  >
+            <p>        <p>
+                <label>Age</label>
+            </p>
+            <input type="number" min="18" max="100" step="5" >
+            <p>
+        </fieldset>
+
+        <input type="file" value="">
+    </body>
+</html>

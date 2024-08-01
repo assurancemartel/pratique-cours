@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7FA5CC17-099F-43E6-8F18-045CA816CFAB}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ClasseAbstraite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Salarie.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Salarie.cs" Line="14" Column="2" />
+      <File FileName="SalarieTroisiemeEchelon.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClasseAbstraite" expanded="True">
+            <Node name="ClasseAbstraite" expanded="True">
+              <Node name="Salarie.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

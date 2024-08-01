@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcevoirUneFonction", "ConcevoirUneFonction.csproj", "{632F2230-2B8A-4385-B65B-09A0D00B19A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632F2230-2B8A-4385-B65B-09A0D00B19A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632F2230-2B8A-4385-B65B-09A0D00B19A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632F2230-2B8A-4385-B65B-09A0D00B19A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632F2230-2B8A-4385-B65B-09A0D00B19A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B4C4B7-5433-49C7-83D0-0010E9553868}
+	EndGlobalSection
+EndGlobal

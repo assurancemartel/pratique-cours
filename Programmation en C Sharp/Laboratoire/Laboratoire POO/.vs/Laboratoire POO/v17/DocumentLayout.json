@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD884EC-B7BB-4C81-B45A-B36AE48185C9}|Laboratoire POO\\Laboratoire POO.csproj|C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\laboratoire poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD884EC-B7BB-4C81-B45A-B36AE48185C9}|Laboratoire POO\\Laboratoire POO.csproj|solutionrelative:laboratoire poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD884EC-B7BB-4C81-B45A-B36AE48185C9}|Laboratoire POO\\Laboratoire POO.csproj|C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\laboratoire poo\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD884EC-B7BB-4C81-B45A-B36AE48185C9}|Laboratoire POO\\Laboratoire POO.csproj|solutionrelative:laboratoire poo\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD884EC-B7BB-4C81-B45A-B36AE48185C9}|Laboratoire POO\\Laboratoire POO.csproj|c:\\users\\martel74\\documents\\programmation en c sharp\\laboratoire poo\\laboratoire poo\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD884EC-B7BB-4C81-B45A-B36AE48185C9}|Laboratoire POO\\Laboratoire POO.csproj|solutionrelative:laboratoire poo\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD884EC-B7BB-4C81-B45A-B36AE48185C9}|Laboratoire POO\\Laboratoire POO.csproj|C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\laboratoire poo\\lampe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD884EC-B7BB-4C81-B45A-B36AE48185C9}|Laboratoire POO\\Laboratoire POO.csproj|solutionrelative:laboratoire poo\\lampe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lampe.cs",
+              "DocumentMoniker": "C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\Laboratoire POO\\Lampe.cs",
+              "RelativeDocumentMoniker": "Laboratoire POO\\Lampe.cs",
+              "ToolTip": "C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\Laboratoire POO\\Lampe.cs",
+              "RelativeToolTip": "Laboratoire POO\\Lampe.cs",
+              "ViewState": "AQIAABEAAAAAcTbSwZErwCUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:56:16.648Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\Laboratoire POO\\Employe.cs",
+              "RelativeDocumentMoniker": "Laboratoire POO\\Employe.cs",
+              "ToolTip": "C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\Laboratoire POO\\Employe.cs",
+              "RelativeToolTip": "Laboratoire POO\\Employe.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwGcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T03:31:52.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\Laboratoire POO\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Laboratoire POO\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\Laboratoire POO\\Rectangle.cs",
+              "RelativeToolTip": "Laboratoire POO\\Rectangle.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwFAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:48:11.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\Laboratoire POO\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratoire POO\\Program.cs",
+              "ToolTip": "C:\\Users\\martel74\\Documents\\Programmation en C Sharp\\Laboratoire POO\\Laboratoire POO\\Program.cs",
+              "RelativeToolTip": "Laboratoire POO\\Program.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAUwM0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:26:55.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

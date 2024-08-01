@@ -1,0 +1,199 @@
+HTML reference en vert notion des balises https://ord15990.gitlab.io/notes-de-cours/
+une balise orpheline est une balise qui n'a pas de balise fermante.
+ les titres : synthaxe h1(les titres les plus gros) ainsi de suite en descendant jusqu'à h6
+toujours commencer dans ol avant de faire entrer li
+la balise <br>...</br> permet de retourner à la ligne , les balises <pre>...</pre> tiennent compte des espacements.
+la balise <Mark>....</Mark> met en relief certains textes ou mots clés qui sont pertinents.( par exemple lorsqu,on lance une recherhe dans google, il nous ressort les points marquants.) (le but de strong est de surligner en jaune le mot ou la phrase)
+balise <Strong>...</Strong> met un texte en gras , texte tres import dans la page.
+balise <em>..</em> permet de mettre le mot ou phrase en italique.
+les extensionsdes images sont : jpg,jpeg,png. 
+balise <video>...</video> pour faire les videos, toujours introduire les sources des videos.les extensions des videos sont: mp4,avi,mov
+
+
+
+les 2 ppints (..) permettent de remonter à une direction.
+la balise <ul> c'est pour les listes non ordonnées ie les points et les <ol> pour les ordonnées ie les chiffres.
+
+
+TRAVAIL A FAIRE
+
+Réaliser un site web de votre restaurant.
+
+Le site web se compose de deux pages :
+
+Page accueil.html : La page d'accueil contient une entête qui contient le logo, le nom de votre restaurant, et le menu de navigation. le logo et l'image du repas (boeuf) est contenu dans le dossier images qui se trouve à l’intérieur du dossier média. Vous pouvez utiliser les images et videos de votre choix. 
+Le menu de navigation contient une liste de liens vers les différentes sections de votre page d'accueil
+la section boeuf et poisson envoient vers la page menu.html qui se trouve dans le dossier menu
+
+
+La page d'accueil contient un formulaire pour réserver une table.
+Les informations pour contacter le propriétaire sont dans le pied de la page
+
+
+
+
+Page menu.html
+
+L'image est stockée en local.
+
+La vidéo peut être stockée dans un site externe (pexels.com).
+
+
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>accueil</title>
+</head>
+<body>
+
+<header>
+    <img src="media\Dossier images\logo.jpg" alt="Logo du Restaurant"  width="50" height="50">
+    <h1>Le Restaurant La Cité </h1>
+</header>
+
+    <main>
+         <section>
+            <h4>Menu</h4>
+        </section>
+
+        
+    <ol>
+        <li>Présentation de l'équipe
+    
+           <ul>
+             <li><a href=" lien   " > Le chef  </a></li>
+             <li><a href="lien "> Le staff </a></li>
+         </ul>
+        </li>
+    
+        <li>Notre Spécialité
+    
+            <ul>
+                <li><a href=" lien   " > Le boeuf </a></li>
+                    <ul>
+                       <li> Aux champignons </li>
+                       <li> Aux légumes </li>
+                    </ul>
+                </li> 
+                <li><a href="lien"> Le poisson </a></li>
+                   <ul>
+                      <li> A la planche </li>
+                      <li> A l'ancienne </li>
+                    </ul>
+                </li>    
+            </ul>
+
+        <li><a href="lien"> Reserver une table</a></li>
+        
+        <li><a href="lien"> Nous contatcter </a></li>
+
+    </ol>
+
+    <h3>Présentation de l'équipe</h3>
+    <h4>Le chef</h4>
+    <h4>Le staff</h4>
+
+    <h3>Notre spécialité</h3>
+    <h4>Le boeuf</h4>
+    <h4>Le poisson</h4>
+
+    <h3>Reserver votre table</h3>
+
+    <main>
+        <form>
+            <section>
+              
+                <fieldset>
+                    <legend>Informations personnelles</legend>
+                <p>   
+                    <label>Nom
+                        
+                        <input type="text"  value="Votre nom complet">
+                    </label>
+                </p>
+                <p>
+                    <label> Email
+                        <input type="text"   value="">
+                    </label>
+                </p>
+                <p>
+                    <label> Téléphone(Obligatoire)
+                        <input type="text"   value="">
+                    </label>
+                </p>
+                </fieldset>
+                
+                <fieldset>
+                    <legend>Je souhaite</legend>
+                <p>   
+                    Une table à :
+                </p>   
+                    <label>
+                        La terasse
+                        <input type="radio" name="richesse" value="1">
+                    </label>
+                    <label> La salle
+                        <input type="radio" name="richesse" value="1">
+                    </label>
+               
+                <p>
+                    <div>Nombres de places
+                      <Select name="Nombres de places" id=" places">
+                      <option value="0"selected>2</option>
+                      <option value="1">5</option>
+                      <option value="2" >8</option>
+                      <option value="3">10</option>
+                      <option value="4">15</option>
+                      </select>
+                    </div>
+                <label for="Date">Date
+                    <input type="date " >
+                </label><br><br>
+
+                    <div> Veuillez choisir le jour de la reservation:
+                    <label>6pm
+                        <input type="checkbox" name="" >
+                    </label>
+                    <label>7pm
+                        <input type="checkbox" name="" >
+                    </label>
+                    <label>8pm
+                        <input type="checkbox" name="" >
+                    </label>
+                    <label>9pm
+                        <input type="checkbox" name="" >
+                    </label>
+                    </div>
+
+                </fieldest>
+                <input type="Submit" value ="Soumettre">
+                <input type="Submit" value="réinitialiser">
+            </section>
+    
+        </form>
+
+    </main>
+    
+    <footer>
+       <h3>Nous contacter</h3>
+       <div>Téléphone:+1 819 547 89-74</div>
+       <div>Page facebook:
+
+       </div>
+       <h3>Notre équipe: </h3>
+       <div> * Donfack Tsagueu Erick Bergevin<br>*Guekam Fongang Brenda Lydie<br>
+        *Kante Moussa Alanabilah<br>* Ngouchegne Tenesso Aurelie Charlaine <br>*
+        Ngueko Wolache Martel
+       </div>
+    </footer>
+                
+
+
+</body>
+</html>
+
+
+
+

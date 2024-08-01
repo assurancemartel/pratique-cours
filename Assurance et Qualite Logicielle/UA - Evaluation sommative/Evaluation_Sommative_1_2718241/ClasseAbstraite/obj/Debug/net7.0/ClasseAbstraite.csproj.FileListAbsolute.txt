@@ -1,0 +1,45 @@
+/Users/manelsorba/Desktop/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite
+/Users/manelsorba/Desktop/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.deps.json
+/Users/manelsorba/Desktop/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.runtimeconfig.json
+/Users/manelsorba/Desktop/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.dll
+/Users/manelsorba/Desktop/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.pdb
+/Users/manelsorba/Desktop/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.csproj.AssemblyReference.cache
+/Users/manelsorba/Desktop/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manelsorba/Desktop/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.AssemblyInfoInputs.cache
+/Users/manelsorba/Desktop/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.AssemblyInfo.cs
+/Users/manelsorba/Desktop/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.csproj.CoreCompileInputs.cache
+/Users/manelsorba/Desktop/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.dll
+/Users/manelsorba/Desktop/ClasseAbstraite/obj/Debug/net7.0/refint/ClasseAbstraite.dll
+/Users/manelsorba/Desktop/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.pdb
+/Users/manelsorba/Desktop/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.genruntimeconfig.cache
+/Users/manelsorba/Desktop/ClasseAbstraite/obj/Debug/net7.0/ref/ClasseAbstraite.dll
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.deps.json
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.runtimeconfig.json
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.dll
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.pdb
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.csproj.AssemblyReference.cache
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.AssemblyInfoInputs.cache
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.AssemblyInfo.cs
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.csproj.CoreCompileInputs.cache
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.dll
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/obj/Debug/net7.0/refint/ClasseAbstraite.dll
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.pdb
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.genruntimeconfig.cache
+/Users/manelsorba/Desktop/Evaluation_Sommative_01_AQL_Enonce/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ref/ClasseAbstraite.dll
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.deps.json
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.runtimeconfig.json
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.dll
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/bin/Debug/net7.0/ClasseAbstraite.pdb
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.csproj.AssemblyReference.cache
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.AssemblyInfoInputs.cache
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.AssemblyInfo.cs
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.csproj.CoreCompileInputs.cache
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.dll
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/obj/Debug/net7.0/refint/ClasseAbstraite.dll
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.pdb
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ClasseAbstraite.genruntimeconfig.cache
+/Users/manelsorba/Desktop/025914_Assurance_De_Qualité_Logicielle_P2023/Evaluation Sommative 01_AQL_Printemps2023/Evaluation_Sommative_01_AQL_P2023_Soln/ES01V03/ClasseAbstraite/obj/Debug/net7.0/ref/ClasseAbstraite.dll

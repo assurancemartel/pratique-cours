@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Commande de ramen</title>
+</head>
+<body>
+    <header>
+        <h1>Commandez votre ramen</h1>
+        <img src="./img/ramen.jpg" alt="Bol de ramen">
+    </header>
+
+    <main>
+        <form>
+            <section>
+                <h2>Choix du ramen</h2>
+                <fieldset>
+                    <legend>Bouillon</legend>
+                    <p>
+                        Intensité du goût:
+                    </p>
+                    <label>
+                        Faible
+                        <input type="radio" name="intensite" value="0">
+                    </label>
+                    <label>
+                        Moyenne
+                        <input type="radio" name="intensite" value="1" checked>
+                    </label>
+                    <label>
+                        Forte
+                        <input type="radio" name="intensite" value="2">
+                    </label>
+                    <p>
+                        Richesse (huile et gras)
+                    </p>
+                    <label>
+                        Aucune
+                        <input type="radio" name="richesse" value="0">
+                    </label>
+                    <label>
+                        Légère
+                        <input type="radio" name="richesse" value="1">
+                    </label>
+                    <label>
+                        Moyenne
+                        <input type="radio" name="richesse" value="2" checked>
+                    </label>
+                    <label>
+                        Forte
+                        <input type="radio" name="richesse" value="3">
+                    </label>
+                    <label>
+                        Ultra
+                        <input type="radio" name="richesse" value="4">
+                    </label>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Nouilles</legend>
+                    <p>
+                        <label for="texture">Texture:</label>
+                    </p>
+                    <select size="5" name="texture" id="texture" autofocus>
+                        <option value="0">Extra ferme</option>
+                        <option value="1">Ferme</option>
+                        <option value="2" selected>Moyenne</option>
+                        <option value="3">Molle</option>
+                        <option value="4">Extra molle</option>
+                    </select>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Contenu</legend>
+                    <p>
+                        <label for="ail">Ail:</label>
+                    </p>
+                    <select name="ail" id="ail">
+                        <option value="0">Aucun</option>
+                        <option value="1">Un peu</option>
+                        <option value="2" selected>Normal</option>
+                        <option value="3">Beaucoup</option>
+                        <option value="4">Énormément</option>
+                    </select>
+                    <p>
+                        <label for="oignon">Oignon vert complet:</label>
+                    </p>
+                    <select name="oignon" id="oignon">
+                        <option value="0">Aucun</option>
+                        <option value="1">Oignon vert partiel (blanc seulement)</option>
+                        <option value="2" selected>Oignon vert complet</option>
+                    </select>
+                    <p>
+                        Viande:
+                    </p>
+                    <label>
+                        Porc
+                        <input type="checkbox" name="viande" value="porc">
+                    </label>
+                    <label>
+                        Boeuf
+                        <input type="checkbox" name="viande" value="boeuf">
+                    </label>
+                    <label>
+                        Poulet
+                        <input type="checkbox" name="viande" value="poulet">
+                    </label>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Garniture</legend>
+                    <p>
+                        <label for="garniture">Garniture à ajouter:</label>
+                    </p>
+                    <select size="5" multiple name="garniture" id="garniture">
+                        <option value="tamago">Tamago (Oeuf)</option>
+                        <option value="menma">Menma (Pousse de bambou)</option>
+                        <option value="moyashi">Moyashi (Germe de soja)</option>
+                        <option value="algue">Algues</option>
+                        <option value="mais">Maïs</option>
+                    </select>
+                </fieldset>
+            </section>
+
+            <section>
+                <h2>Information sur la commande</h2>
+                <fieldset>
+                    <legend>Identification</legend>
+                    <p>
+                        <label for="prenom">Prénom</label>
+                    </p>
+                    <input type="text" placeholder="Prénom" id="prenom">
+                    <p>
+                        <label for="nom">Nom</label>
+                    </p>
+                    <input type="text" placeholder="Nom" id="nom">
+                </fieldset>
+            </section>
+
+            <section>
+                <h2>Envoyer la commande</h2>
+                <input type="submit" value="Soumettre la commande">
+            </section>
+        </form>
+    </main>
+
+    <footer>
+        <p>
+            &copy; Jonathan Wilkie | Collège La Cité
+        </p>
+    </footer>
+</body>
+</html>

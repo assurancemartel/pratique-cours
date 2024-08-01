@@ -1,0 +1,28 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    
+ }
+ 
+ li {
+    margin: 3px;
+    list-style-type: none;
+ }
+ 
+ a:link {
+    text-decoration: none;
+    color: black;
+    border: 2px #880F02 solid;
+    padding: 5px;
+    
+ }
+ 
+ a:hover {
+    background-color: #880F02;
+    color: white;
+    border: 5px black solid;
+    text-transform: uppercase;
+    font-weight: bold;
+ }
+ 
+ 

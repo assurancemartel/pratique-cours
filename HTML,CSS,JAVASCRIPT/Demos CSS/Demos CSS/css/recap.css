@@ -1,0 +1,30 @@
+/*
+p{
+    color : red;
+}
+
+h2{
+    color : green;
+}
+*/
+/*Le "." sert à appeler unélément par sa classe*/
+#pId{
+    color:green
+}
+
+p{
+    color: red;
+    font-size: 45px;
+    
+}
+/*Le "#" sert à appeler unélément par son ID*/
+
+
+ul .a{
+    color: green;
+    font-size: 24px;
+}
+
+ul li.a{
+
+}

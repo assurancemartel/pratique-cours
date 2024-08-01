@@ -1,0 +1,15 @@
+table, td, th {
+    border: 1px solid #000;
+}
+
+.a{
+    caption-side: bottom;
+    border-collapse: separate;
+    border-spacing: 5px 20px;
+}
+
+.b{
+    caption-side: top;
+    border-collapse: collapse;
+    border-spacing: 5px;
+}

@@ -1,0 +1,37 @@
+p.solide {
+    border-top: 10px solid red;
+    border-bottom: 10px dotted green;
+    display: inline;
+}
+
+p.point {
+    border: 5px dotted #111;
+}
+
+p.tiret {
+    border: 20px dashed #222;
+}
+
+p.double {
+    border: 10px double #333;
+}
+
+p.groove {
+    border: 3px groove #444;
+}
+
+p.ridge {
+    border: 3px ridge #555;
+}
+
+p.inset {
+    border: 15px inset red;
+}
+
+p.outset {
+    border: 3px outset blue;
+}
+.souligner{
+    border-bottom: 1px solid black;
+    display : inline
+}

@@ -1,0 +1,49 @@
+les types de variables : variables qualitatives et variables quantitatives.
+les  variables quantitatives :nominales et ordinales.
+les variables qualitatives nominales(nom) et les variables qualitatives ordinales (ordonner)
+les variables quantitatives discrètes(: le nombre d’enfants par famille, le nombre de films regardés, le nombre de programmes propose par la Cité) et les variables quantitatives continues(: le poids d’une personne, le pourcentage des filles dans la Cité, le temps nécessaire pour effectuer un trajet.)
+
+La fréquence relative d’une catégorie (ou d’une valeur ) particulière est la proportion de la catégorie.frequence relative = frequence absolue / nombre total d'observations 
+
+
+diagramme circulaire,diagramme à rectangles verticaux ou horizontaux , diagramme linéaire == variable qualitative.
+ diagramme en baton = variables quantitatives discrètes.
+histogramme = v.quantitative.continue. on accompagne un histogramme avec un polygone de frequence.
+
+Important : L'histogramme est composé de colonnes accolées de hauteurs variables. On ne laisse pas d'espace entre les
+colonnes d'un histogramme afin d'indiquer qu'il s'agit de l'étude d'une variable continue. À ne pas confondre avec un diagramme à rectangles verticaux !
+Lorsque le caractère statistique est une variable quantitative continue et les valeurs sont regroupées en classe : on construit un histogramme
+
+Procédure de construction de l’histogramme (manuel p. 24)
+a. Fixer le nombre de classes avec la table de Sturges. Elle repose sur la formule 1+3,322log n (n: nombre de données)
+b. Calculer l’étendue de la série (E = Xmax- Xmin)
+c. Calculer l’amplitude de la classe, avec amplitude = étendue /nombre de classes
+
+Important : il faut calculer la fréquence rectifiée (ou l’effectif rectifié) si les classes ont des amplitudes inégales
+avant de construire l’histogramme.
+
+/////   formules
+ amplitude = Xmax - Xmin
+ densité = fréquence absolue/amplitude
+ la fréquence rectifiée pour l’amplitude choisie a* avec 
+fréquence rectifiée =a*x densité de la classe
+Fréquence relative = fréquence absolue ÷ nombre total d’observations
+
+
+   Données non groupéés(série statistique)
+mu = (U expression mathematiques) = moyenne == moyenne des donées de la population.
+N = nombre de données.  mu = (somme des xi / N)
+x(barre au dessus) == moyenne des données de l'échantillon.
+n = nombre de données de l'échantillon.  x(barre)= (somme des xi /n)
+n = 
+	Données groupées (tableau de distribution)
+
+pourcentage cumulé croissant=pourcentage accumuléee successiivement.
+
+STDEV (formule en anglais  de l'ecart type), moyenne, puissance(ou encore C^2),racine carré,
+ homogéniété fait refernce à le coefficient de variation (le fait que le coefficient de variation soit plus faible prouve que c,est plus homogene)
+moyenne (discrete et continue)
+µ = ∑cifi
+𝜎2 = ∑(ci-µ)2 fi
+
+

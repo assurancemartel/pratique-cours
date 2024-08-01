@@ -1,0 +1,7 @@
+C:\Users\martel74\Documents\Programmation en C Sharp\Evaluation_sommative_1_2718241\Evaluation_sommative_1_2718241\bin\Debug\Evaluation_sommative_1_2718241.exe.config
+C:\Users\martel74\Documents\Programmation en C Sharp\Evaluation_sommative_1_2718241\Evaluation_sommative_1_2718241\bin\Debug\Evaluation_sommative_1_2718241.exe
+C:\Users\martel74\Documents\Programmation en C Sharp\Evaluation_sommative_1_2718241\Evaluation_sommative_1_2718241\bin\Debug\Evaluation_sommative_1_2718241.pdb
+C:\Users\martel74\Documents\Programmation en C Sharp\Evaluation_sommative_1_2718241\Evaluation_sommative_1_2718241\obj\Debug\Evaluation_sommative_1_2718241.csproj.AssemblyReference.cache
+C:\Users\martel74\Documents\Programmation en C Sharp\Evaluation_sommative_1_2718241\Evaluation_sommative_1_2718241\obj\Debug\Evaluation_sommative_1_2718241.csproj.CoreCompileInputs.cache
+C:\Users\martel74\Documents\Programmation en C Sharp\Evaluation_sommative_1_2718241\Evaluation_sommative_1_2718241\obj\Debug\Evaluation_sommative_1_2718241.exe
+C:\Users\martel74\Documents\Programmation en C Sharp\Evaluation_sommative_1_2718241\Evaluation_sommative_1_2718241\obj\Debug\Evaluation_sommative_1_2718241.pdb

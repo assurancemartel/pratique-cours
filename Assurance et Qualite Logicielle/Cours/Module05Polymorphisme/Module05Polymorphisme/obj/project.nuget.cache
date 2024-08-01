@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GJn1IV8/1J/4aq9raZzfYqu2n/KFKsm+PvT9c/uK/TJt+szzvxJK+U3QSSYpKHCyL58mOi3qZOmd2M+2e5x3NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martel74\\Documents\\Assurance et Qualite Logicielle\\Module05Polymorphisme\\Module05Polymorphisme\\Module05Polymorphisme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martel74\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\martel74\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\martel74\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\martel74\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+
+#diff{
+    color: red;
+}
+
+
+div{
+    width: 300px;
+    height: 200px;
+    background-color: bisque;
+}
+
+span{
+    color: red;
+    font-size: 32px;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: outside;
+}

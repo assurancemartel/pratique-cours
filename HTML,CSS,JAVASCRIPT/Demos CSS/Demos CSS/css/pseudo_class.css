@@ -1,0 +1,25 @@
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: palevioletred;
+    font-size: 25px;
+}
+
+input.hoverable:hover {
+    background-color: #FF0;
+}
+
+ul.hoverable li:hover {
+    background-color: rgb(155, 55, 55);
+    color: white;
+    font-size: 20px;
+}
+
+input.clickable:active, a.clickable:active, p.clickable:active {
+    background-color: #F00;
+}
+input:focus, textarea:focus, select:focus, a:focus {
+    border: 10px double #00F;
+}

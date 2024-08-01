@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title>Formulaire</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h2>Formulaire de renseignement</h2>
+        <form>
+            <fieldset>
+                <legend>Informations personnelles</legend>
+                <label >Prénom: <input type="text" ></label><br>
+                <label for="email">email: </label><input id="email" type="text" ><br>
+                <label>email: </label><input id="" type="text" ><br>
+
+
+                <label for="choix_age">Tranche d'age</label>   
+                    <select id="choix_age" >
+                        <option>18-25</option>
+                        <option>26-35</option>
+                        <option>36-45</option>
+                        <option>46-55</option>
+                    </select>
+            </fieldset>
+            <fieldset>
+                <legend>Je cherche</legend>
+                <label >Une chambre individuelle <input type="radio" name="type_chambre" value="solo"></label><br>
+                <label >Une chambre partagée <input type="radio" name="type_chambre" checked value="duo"></label><br>
+            </fieldset>
+            <p>
+                <label for="commentaire">Commentaires</label>
+            </p>
+            <textarea  id="commentaire" cols="80" rows="20"></textarea>
+            <p>
+                <input type="submit" value="Soumettre">
+                <input type="reset" value="Reinitialiser">
+            </p>
+        </form>
+        <label >Nom: <input type="text" placeholder="Nom de famille"></label><br>
+
+    </body>
+</html>
